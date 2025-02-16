@@ -39,10 +39,11 @@ const categoryMap = useBlogCategory('category')
 .category-wrapper {
   @include mixins.content_wrapper;
 
-  padding-top: 1rem !important;
+  padding-top: 10rem !important;
   padding-bottom: 0 !important;
 
   font-size: 14px;
+  z-index: 10px;
 
   a {
     color: inherit;
@@ -79,7 +80,7 @@ const categoryMap = useBlogCategory('category')
 
       font-size: 0.7rem;
       line-height: 1.2rem;
-      text-align: center;
+      text-align: left;
     }
 
     &.route-link-active {
