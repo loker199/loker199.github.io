@@ -29,8 +29,6 @@
   * 原来就是继承了defineUserConfig
 * .vue 文件就很像Django的template 像html
 
-
-
 ## 已知问题
 * Tag 和category里没有数据
   * 有数据，只是被隐藏掉了，调整`.category-wrapper` 就可以了
@@ -41,6 +39,17 @@
 # 语法分析
 ## markdown
 >Front Matter(yml) + standard Markdown syntax
+
+## YAML
+* 数据类型
+  * 键值对(字典)
+  * 数组`使用 - 开头`
+
+* github action
+  * 触发Event`on`
+  * 执行的内容`jobs,steps`
+    * 使用其他人的actions，以及参数 `uses, with`
+    * 执行指令 `run`
 
 # 阅读笔记
 * Routing
