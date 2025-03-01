@@ -28,6 +28,7 @@
 * config 里面是主页的信息, plugins部分还没有看明白是怎么工作的
   * 原来就是继承了defineUserConfig
 * .vue 文件就很像Django的template 像html
+* [ ] 支持LateX, 数学表达式
 
 ## 已知问题
 * Tag 和category里没有数据
