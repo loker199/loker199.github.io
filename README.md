@@ -25,10 +25,11 @@
   * [x] 基于Template格式，进行修改
 * [x] 创建新的文章
   * [x] 直接在posts目录下面创建新的文件就能在Article里面找到
-* config 里面是主页的信息, plugins部分还没有看明白是怎么工作的
+* [x] config 里面是主页的信息, plugins部分还没有看明白是怎么工作的
   * 原来就是继承了defineUserConfig
 * .vue 文件就很像Django的template 像html
 * [ ] 支持LateX, 数学表达式
+* [ ] 逐渐将先前的笔记，搞过来，适当的修改和补充，但是不要过分扩大范围
 
 ## 已知问题
 * Tag 和category里没有数据

@@ -15,6 +15,7 @@ features:
   - title: 游戏
     details: Gaming Experience
 
-
 footer: MIT Licensed
 ---
+
+写博客是因为我在思考，因为我在观察，因为我希望把它放在某个地方，让未来的我看到我的思想演变
