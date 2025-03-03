@@ -2,6 +2,7 @@ import { blogPlugin } from '@vuepress/plugin-blog'
 import { defaultTheme } from '@vuepress/theme-default'
 import { defineUserConfig } from 'vuepress'
 import { viteBundler } from '@vuepress/bundler-vite'
+import { markdownMathPlugin } from '@vuepress/plugin-markdown-math'
 
 export default defineUserConfig({
   lang: 'en-US',
@@ -34,6 +35,7 @@ export default defineUserConfig({
   }),
 
   plugins: [
+    markdownMathPlugin({}),
     blogPlugin({
       // Only files under posts are articles
       filter: ({ filePathRelative }) =>
