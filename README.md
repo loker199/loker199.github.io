@@ -32,6 +32,7 @@
   * [x] [文档](https://ecosystem.vuejs.press/zh/plugins/markdown/markdown-math.html)
   * 最开始是直接在浏览器搜索，也是Vuepress的文档，community里的，全都过期了，不过发现可以用插件实现，就用started里找插件。感叹前端好用，但是项目管理好像不可靠
 * [ ] 逐渐将先前的笔记，搞过来，适当的修改和补充，但是不要过分扩大范围
+  * [ ] 先使用archive做标记，导航跳到timeline去
 
 ## 已知问题
 * Tag 和category里没有数据

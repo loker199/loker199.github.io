@@ -4,7 +4,7 @@ title: Home
 heroImage: /images/logo.png
 actions:
   - text: Get Started
-    link: /article/
+    link: /timeline/
     type: primary
 
 features:
