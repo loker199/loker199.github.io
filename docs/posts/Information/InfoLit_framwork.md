@@ -119,5 +119,5 @@ excerpt: <p> 评估信息产生者，传播工具以及信息本身。平时多�
 
 > 信息检索的技术分析
 
-[Framework for Information Literacy for Higher Education ](https://www.ala.org/sites/default/files/acrl/content/issues/infolit/Framework_ILHE.pdf)
+[Framework for Information Literacy for Higher Education ](https://www.ala.org/sites/default/files/acrl/content/issues/infolit/Framework_ILHE.pdf)  
 [高等教育信息素养框架](https://www.ala.org/sites/default/files/acrl/content/standards/framework-chinese.pdf)

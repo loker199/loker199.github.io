@@ -5,7 +5,7 @@ category:
 tag:
  - 羽毛球
 archive: false
-excerpt: <p> 记录在羽毛球中的学习和实践</p>
+excerpt: <p> 记录在羽毛球中的学习和实践，缓慢更新动作细节</p>
 ---
 
 # 羽毛球
