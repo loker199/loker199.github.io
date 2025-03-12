@@ -39,6 +39,9 @@
   * 有数据，只是被隐藏掉了，调整`.category-wrapper` 就可以了
 * 还有其他风格的主题
 * push 的时候遇到了拒绝访问的问题，需要把port 换到别处
+* 发现原来默认的不支持任务列表，需要增加GFM支持
+  * [插件](https://ecosystem.vuejs.press/zh/plugins/markdown/markdown-ext.html)
+  * 不急着加
 
 
 # 语法分析
