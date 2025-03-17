@@ -4,7 +4,7 @@ category:
  - 见闻
 tag:
  - 乐之本事
-excerpt: <p> 如果你真的爱音乐，音乐也会爱你。听音乐同样需要记忆，推荐了一些曲目。以前我随机的选择音乐，现在我喜欢在演奏里寻找各种版本的演绎</p>
+excerpt: <p> 如果你真的爱音乐，音乐也会爱你。<br> 听音乐同样需要专心和记忆 <br>现在我喜欢在演奏里寻找各种版本的演绎 <br>还推荐了一些曲目。</p>
 ---
 
 # 乐之本事
@@ -566,216 +566,125 @@ excerpt: <p> 如果你真的爱音乐，音乐也会爱你。听音乐同样需�
 * 巴洛克音乐（1600-1750）
 
 ## 听过的喜欢曲目
+> 喜欢的会给出英文名以方便搜索
+> 不喜欢的会使用:x:做标记. 
+> 我听不惯带人声的(吵)，并非不好听 :scream:
+> 还是直接删掉吧
+> 之后还是按照听感进行分类，把情绪相似的放在一起
+
 * [x] C大调奏鸣曲 莫扎特 `Piano Sonata No. 16 in C Major, K. 545`
 * [x] G小调第一号叙事曲 肖邦 `Ballade No. 1 in G Minor, Op. 23`
-* [ ] E小调小提琴奏鸣曲 莫扎特  
-* [ ] 二十四首前奏曲28之四首 E小调前奏曲 肖邦  
+* [x] E小调小提琴奏鸣曲 莫扎特 `Violin Sonata in E Minor, K. 304`
+* [x] 二十四首前奏曲28之四首 E小调前奏曲 肖邦 `Prelude in E Minor, Op. 28, No. 4`
 * [x] 第七号钢琴三重奏(大公三重奏) 贝多芬  `Piano Trio No. 7 in B-flat Major, Op. 97 "Archduke"`
-* [ ] 第一号钢琴曲 柴可夫斯基 `感觉一般`
-* [ ] 第三号钢琴协奏曲 普罗科菲耶夫  
-* [ ] 恰空舞曲 费鲁乔~布索尼  
-* [ ] 第一号钢琴协奏曲第一乐章 柴可夫斯基  
-* [ ] 小步舞曲 拉威尔  
-* [ ] 偏执的机器人 Radiohead  
-* [ ] 美国纪念 维厄当  
-* [ ] 管弦乐团协奏曲 第五乐章 巴托克  
-* [ ] 合唱幻想曲 贝多芬  
-* [x] D大调卡农 约翰 帕赫贝尔  
-* [ ] 第26号D大调钢琴协奏曲
-* [ ] 第23号A大调钢琴协奏曲
-* [ ] 第24号C小调钢琴协奏曲 莫扎特  
-* [ ] 悲剧序曲 勃拉姆斯  
-* [ ] A大调小提琴协奏曲第四乐章 弗兰克  
-* [ ] A大调小提琴奏鸣曲第一乐章 弗兰克  
-* [ ] d小调第一号交响曲 布莱恩  
-* [ ] 美人鱼 泽姆林斯基  
-* [ ] 音乐会作品 圣桑  
-* [ ] 第二号大提琴奏鸣曲 米业斯科夫斯基  
-* [ ] D大调吉他协奏曲 卡斯泰尔诺沃-泰代斯科  
-* [ ] 第25号钢琴协奏曲  
-* [ ] 
-* [ ] 
-* [ ] 达那伊得斯姊妹 萨里耶斯  
-* [ ] 唐·乔万尼 莫扎特  
-* [ ] 大兵进行曲  斯特拉文斯基  
-* [ ] 第四号弦乐四重奏 巴托克  
-* [ ] 孔雀主题变奏曲 柯达伊  
-* [ ] 云雀飞翔 沃恩·威廉斯  
-* [ ] 钢琴练习曲第八号 利盖蒂  
-* [ ] 梆笛协奏曲 马水龙  
-* [ ] 第八号弦乐四重奏 肖斯塔科维奇  
-* [ ] 冰上大战 普罗科菲耶夫  
-* [ ] 星球大战 约翰·威廉姆斯  
-* [ ] 战神火星 霍尔斯特  
-* [ ] 神秘之海王星 霍尔斯特
-* [ ] 自新大陆 德沃夏克
-* [ ] 第四十号交响曲 莫扎特  
-* [ ] G弦上的咏叹调 巴赫  
-* [ ] 锡安，听见守望歌声 巴赫  
-* [ ] 苍白的浅影  
-* [ ] 二十四首前奏曲 肖邦  
-* [ ] 神奇魔力 巴瑞·曼尼洛  
-* [ ] 花开 细川俊夫  
-* [ ] 击打我心 约翰·库里奇·亚当斯  
-* [ ] 二黄 陈其钢  
-* [ ] 第八号交响曲 马勒  
-* [ ] 左手钢琴协奏曲 拉威尔  
-* [ ] 圣洁的阿伊达 威尔第  
-* [ ] 小提琴协奏曲 西贝柳斯  
-* [ ] 第五号交响曲 柴可夫斯基  
-* [ ] 第90号交响曲 海顿  
-* [ ] 没有妈妈 普契尼  
-* [ ] D小调键盘奏鸣曲 斯卡拉第  
-* [ ] 
-* [ ] 金鸡 里姆斯基·柯萨科夫
-* [ ] 田园 李斯特  
-* [ ] 圣母颂 舒伯特  
-* [ ] 摩西 塔尔贝格·罗西尼  
-* [ ] 蜂鸟 胡里奥·萨瓦尔多·萨格雷拉斯  
-* [ ] F大调第一号大提琴奏鸣曲 贝多芬  
-* [ ] 第八号弦乐四重奏 贝多芬  
-* [ ] 第三号钢琴四重奏 勃拉姆斯  
-* [ ] 长笛、中提琴、竖琴三重鸣奏曲  德彪西  
-* [ ] 弦乐四重奏 拉威尔  
-* [ ] 第39号G大调钢琴三重奏 海顿  
-* [ ] 降E大调钢琴四重奏 舒曼  
-* [ ] b小调大提琴协奏曲 德沃夏尔  
-* [ ] B小调大协奏曲 亨德尔  
-* [ ] 勃兰登堡协奏第三号 巴赫  
-* [ ] 勃兰登堡协奏曲第五号 巴赫  
-* [ ] 第三号钢琴协奏曲 拉赫曼尼诺夫  
-* [ ] 双重协奏曲 勃拉姆斯  
-* [ ] 第22号钢琴协奏曲 莫扎特  
-* [ ] 第一号小提琴协奏曲 肖斯塔科维奇  
-* [ ] 拉美莫尔的露契亚 唐尼采第  
-* [ ] 竖笛协奏曲 泰勒曼  
-* [ ] 双簧管、低音管、钢琴三重奏 普朗克  
-* [ ] 长笛鸣奏曲 普朗克  
-* [ ] 第24号随想曲 帕格尼尼  
-* [ ] d小调交响曲 法朗克  
-* [ ] 交响舞曲 拉赫玛尼诺夫  
-* [ ] 六重奏 普朗克  
-* [ ] 小号协奏曲 亨利·托马西  
-* [ ] 女武神的骑行 瓦格纳  
-* [ ] 第一号圆号协奏曲 理查德·施特劳斯  
-* [ ] 火鸟之地狱之舞 斯特拉文斯基  
-* [ ] 流浪者之歌 萨拉萨蒂  
-* [ ] 大提琴奏鸣曲 肖斯塔科维奇  
-* [ ] 悲歌 格拉祖诺夫  
-* [x] 鳟鱼 舒伯特  
-* [ ] 布里吉主题变奏曲 布里顿  
-* [ ] G大调曼陀铃协奏曲 胡梅尔  
-* [ ] 安魂日 威尔第  
-* [ ] 火鸟 斯特拉文斯基  
-* [ ] 没有影子的女人 理查德·施特劳斯  
-* [ ] 打击乐协奏曲 詹妮弗·希格顿  
-* [ ] 胡桃夹子 柴可夫斯基  
-* [ ] 管风琴 圣一桑  
-* [ ] 图兰加利拉 梅西安  
-* [ ] 第四号交响曲 勃拉姆斯  
-* [ ] 欢乐之神木星 霍尔斯特  
-* [ ] 培尔·金特 格里特  
-* [ ] 阿尔卑斯山交响曲 理查德·施特劳斯  
-* [ ] 达夫妮与克洛伊 拉威尔  
-* [ ] 波莱罗舞曲 拉威尔  
-* [ ] 特萨莉亚的臣民们 莫扎特  
-* [ ] 拉克美，银铃之歌 德利伯  
-* [ ] 波西米亚人 普契尼  
-* [ ] 图兰朵 普契尼  
-* [ ] 最后四首歌 查斯特劳斯  
-* [ ] 麦克白 威尔第  
-* [ ] 游唱诗人 威尔第  
-* [ ] 灰姑娘 罗西尼  
-* [ ] 参孙与达丽拉 圣桑  
-* [ ] 费加罗的婚礼 莫扎特  
-* [ ] 湖上少女 罗西尼  
-* [ ] 阿里安娜在克里特岛  
-* [ ] 威廉退尔 罗西尼  
-* [ ] 齐格费里德 瓦格纳  
-* [ ] 采珠者 比才  
-* [ ] 弄臣 威尔第  
-* [ ] 托斯卡 普契尼  
-* [ ] 女武神 瓦格纳  
-* [ ] 少年魔角 马勒  
-* [ ] 风流寡妇 雷哈尔  
-* [ ] 浮士德 古诺  
-* [ ] 鲍里斯·戈杜诺夫 穆索尔斯基  
-* [ ] 卡门 比才  
-* [ ] 旋转螺丝 布里顿  
-* [ ] 华沙幸存者 勋伯格  
-* [ ] 蝴蝶夫人 普契尼  
-* [ ] 玫瑰骑士 查理德·施特劳斯  
-* [ ] 法斯塔夫 威尔第  
-* [ ] 求主垂怜 阿列戈里  
-* [ ] 复活 马勒  
-* [ ] 古雷之歌 勋伯格  
-* [ ] 罗恩格林 瓦格纳  
-* [ ] 土耳其进行曲 莫扎特  
-* [ ] 塞维利亚的理发师 罗西尼  
-* [ ] 参孙 亨德尔  
-* [ ] 魔王 舒伯特  
-* [ ] 茶花女 威尔第  
-* [ ] 舍赫拉查得 里姆斯基·科萨科夫  
-* [ ] 
-* [ ] 
-* [ ] 第17号钢琴协奏曲 莫扎特  
-* [ ] 四季 维瓦尔第  
-* [ ] 第三号小提琴协奏曲 莫扎特  
-* [ ] 第五号交响曲 马勒  
-* [ ] 马祖卡舞曲 肖邦  
-* [ ] 小奏鸣曲 拉威尔  
-* [ ] 钢琴协奏曲 拉威尔  
-* [ ] 第21号钢琴奏鸣曲 贝多芬  
-* [ ] G大调小夜曲 莫扎特  
-* [ ] 第四号交响曲 柴可夫斯基  
-* [ ] 前奏曲 德彪西  
-* [ ] 意象集 德彪西  
-* [ ] 明日 施特劳斯  
-* [ ] 游唱诗人 威尔第  
-* [ ] 茶花女 威尔第  
-* [ ] 托斯卡 普契尼 
-* [ ] 钢琴协奏曲 舒曼  
-* [ ] 勃兰登堡协奏曲 巴赫  
-* [ ] 第22号钢琴协奏曲 莫扎特  
-* [ ] 安魂曲 莫扎特  
-* [ ] 第一号匈牙利舞曲 勃拉姆斯  
-* [ ] 第五交响曲 贝多芬  
-* [ ] 安达卢西亚舞曲 格拉纳多斯  
-* [ ] 为何  舒曼
-* [ ] 
-* [ ] 
-* [ ] 塞尔维亚的理发师 罗西尼  
-* [ ] 阿帕拉契亚的春天 艾伦·科普兰  
-* [ ] 降E大调第五交响曲  西贝柳斯  
-* [ ] 降E小调前奏曲与赋格 巴赫  
-* [ ] 霍尔朔夫斯基  
-* [ ] 第二号B小调管弦乐组曲 巴赫  
-* [ ] A大调钢琴奏鸣曲 舒伯特  
-* [ ] 英雄 贝多芬  
-* [ ] 英雄生涯 施特劳斯  
-* [ ] 西西里舞曲 弗雷  
-* [ ] 钢琴三重奏 拉威尔  
-* [ ] 大兵进行曲 斯特拉文斯基  
-* [ ] 帕西法尔 瓦格纳  
-* [ ] 唐豪瑟 瓦格纳  
-* [ ] 镜中镜 阿沃·帕特  
-* [ ] 莱茵 舒曼  
-* [ ] 被诅咒的猎人  法朗克  
-* [ ] 魔法森林 丹第  
-* [ ] 法国山歌交响曲 丹第  
-* [ ] 音诗 肖松  
-* [ ] 星期天 勃拉姆斯  
-* [ ] 两首希伯来旋律 拉威尔  
-* [ ] 露莎卡 德沃夏克  
-* [ ] 邀游 迪帕克  
-* [ ] 猫之二重奏 罗西尼  
-* [ ] 小提琴协奏曲 康果尔德  
-* [ ] 探戈的历史 皮亚佐拉  
-* [ ] 死城 康果尔德  
-* [ ] 美国古老歌谣 科普尼  
-* [ ] 伯沙撒王的盛宴 沃尔顿  
-* [ ] 第七号交响曲 布鲁克纳  
-* [ ] 神圣的摇篮曲 勃拉姆斯  
+* [x] 第三号钢琴协奏曲 普罗科菲耶夫 `Piano Concerto No. 3 in C Major, Op. 26`
+* [x] 恰空舞曲 费鲁乔~布索尼  `Chaconne in D Minor (after Bach's Violin Partita No. 2, BWV 1004)`
+* [x] 小步舞曲 拉威尔 `Menuet sur le nom d'Haydn`
+* [x] 偏执的机器人(双钢琴演奏与改编 Anderson & Roe) Radiohead  `Paranoid Android (Two Pianos Arrangement by Anderson & Roe)` `album:《OK Computer》`
+* [x] 美国纪念 维厄当 `Souvenir d'Amérique, Op. 17`
+* [x] 合唱幻想曲 贝多芬  `Choral Fantasy in C Minor, Op. 80`
+* [x] D大调卡农 约翰 帕赫贝尔 `Canon in D Major, P. 37`
+* [x] 第26号D大调钢琴协奏曲 莫扎特 `Piano Concerto No. 26 in D Major, K. 537 "Coronation"`
+* [x] 第23号A大调钢琴协奏曲 `Piano Concerto No. 23 in A Major, K. 488`
+* [x] A大调小提琴协奏曲第四乐章 弗兰克  `Violin Sonata in A Major, M. 8 (IV. Allegretto poco mosso)`
+* [x] 音乐会作品 圣桑  `Introduction and Rondo Capriccioso, Op. 28`
+* [x] 第二号大提琴奏鸣曲 米业斯科夫斯基 `Cello Sonata No. 2 in A Minor, Op. 81`
+* [x] D大调吉他协奏曲 卡斯泰尔诺沃-泰代斯科  `Guitar Concerto No. 1 in D Major, Op. 99`
+* [x] 大兵进行曲  斯特拉文斯基  `Marche du soldat (The Soldier's March) from "L'Histoire du soldat"`
+* [x] 第四号弦乐四重奏 巴托克  `String Quartet No. 4, Sz. 91`
+* [x] 钢琴练习曲第八号 利盖蒂  `Étude No. 8 "Fém" from Études pour piano, Book 1`
+* [x] 第八号弦乐四重奏 肖斯塔科维奇  ` String Quartet No. 8 in C Minor, Op. 110`
+* [x] 冰上大战 普罗科菲耶夫  `The Battle on the Ice from Alexander Nevsky, Op. 78`
+* [x] 星球大战之王座受将场景与终曲 约翰·威廉姆斯  `The Throne Room and Finale from Star Wars: Episode IV - A New Hope`
+* [x] 战神火星 霍尔斯特  `Mars, the Bringer of War from The Planets, Op. 32`
+* [x] 神秘之海王星 霍尔斯特 `Neptune, the Mystic from The Planets, Op. 32`
+* [x] 自新大陆 德沃夏克 `Symphony No. 9 in E Minor, Op. 95 "From the New World"`
+* [x] G弦上的咏叹调 巴赫  `Air on the G String, BWV 1068`
+* [x] 二十四首前奏曲 肖邦  `24 Preludes, Op. 28`
+* [x] 左手钢琴协奏曲 拉威尔 `Piano Concerto for the Left Hand in D Major` 
+* [x] 第五号交响曲 柴可夫斯基 `Symphony No. 5 in E Minor, Op. 64`
+* [x] 第六号交响曲 柴可夫斯基 ` Symphony No. 6 in B Minor, Op. 74 "Pathétique"`
+* [x] 第90号交响曲 海顿  `Symphony No. 90 in C Major, Hob. I:90`
+* [x] D小调键盘奏鸣曲 斯卡拉第  `Keyboard Sonata in D Minor, K. 9 (L. 413)`
+* [x] 金鸡幻想曲 里姆斯基·柯萨科夫 `The Golden Cockerel Suite (Suite from the Opera "Le Coq d'Or")`
+* [x] 田园 李斯特  `Pastorale, S. 160 (from "Années de pèlerinage")`
+* [x] 圣母颂 舒伯特  `Ave Maria, D. 839`
+* [x] 摩西主题幻想曲 塔尔贝格·罗西尼  ` Fantasia on Themes from Rossini's "Moses in Egypt", Op. 33`
+* [x] 蜂鸟 胡里奥·萨瓦尔多·萨格雷拉斯  `El Colibrí (The Hummingbird)`
+* [x] F大调第一号大提琴奏鸣曲 贝多芬 `Cello Sonata No. 1 in F Major, Op. 5, No. 1`
+* [x] 第八号弦乐四重奏 贝多芬 `String Quartet No. 8 in E Minor, Op. 59, No. 2 "Razumovsky"` 
+* [x] 弦乐四重奏 拉威尔  `String Quartet in F Major`
+* [x] 第39号G大调钢琴三重奏 海顿  `Piano Trio No. 39 in G Major, Hob. XV:25 "Gypsy Rondo"`
+* [x] 降E大调钢琴四重奏 舒曼  `Piano Quartet in E-flat Major, Op. 47`
+* [x] b小调大提琴协奏曲 德沃夏尔  `Cello Concerto in B Minor, Op. 104`
+* [x] B小调大协奏曲 亨德尔  `Concerto Grosso in B Minor, Op. 6, No. 12`
+* [x] 勃兰登堡协奏第三号 巴赫  `randenburg Concerto No. 3 in G Major, BWV 1048`
+* [x] 勃兰登堡协奏曲第五号 巴赫  `Brandenburg Concerto No. 5 in D Major, BWV 1050`
+* [x] 第三号钢琴协奏曲 拉赫曼尼诺夫  `Piano Concerto No. 3 in D Minor, Op. 30`
+* [x] 双重协奏曲 勃拉姆斯  `Double Concerto in A Minor for Violin and Cello, Op. 102`
+* [x] 第22号钢琴协奏曲 莫扎特   `Piano Concerto No. 22 in E-flat Major, K. 482`
+* [x] 竖笛协奏曲 泰勒曼  `Concerto for Recorder and Flute in E Minor, TWV 52:e1`
+* [x] 双簧管、低音管、钢琴三重奏 普朗克  `Trio for Oboe, Bassoon, and Piano, FP 43`
+* [x] 长笛鸣奏曲 普朗克  `Sonata for Flute and Piano, FP 164`
+* [x] 第24号随想曲 帕格尼尼  `Caprice No. 24 in A Minor, Op. 1`
+* [x] d小调交响曲 法朗克  `Symphony in D Minor`
+* [x] 六重奏 普朗克  ` Sextet for Piano and Wind Quintet, FP 100`
+* [x] 小号协奏曲 亨利·托马西  `Trumpet Concerto in C Major`
+* [x] 女武神的骑行 瓦格纳  `Ride of the Valkyries from Die Walküre`
+* [x] 第一号圆号协奏曲 理查德·施特劳斯 `Horn Concerto No. 1 in E-flat Major, Op. 11`  
+* [x] 火鸟之地狱之舞 斯特拉文斯基  `Infernal Dance of King Kashchei from The Firebird`
+* [x] 流浪者之歌 萨拉萨蒂  `Zigeunerweisen, Op. 20`
+* [x] 大提琴奏鸣曲 肖斯塔科维奇  `Cello Sonata in D Minor, Op. 40`
+* [x] 悲歌 格拉祖诺夫  `Élégie in D-flat Major, Op. 44`
+* [x] 鳟鱼 舒伯特 `Trout Quintet (Piano Quintet in A Major, D. 667)`
+* [x] G大调曼陀铃协奏曲 胡梅尔  `Mandolin Concerto in G Major, S. 28`
+* [x] 打击乐协奏曲 詹妮弗·希格顿  `Percussion Concerto`
+* [x] 胡桃夹子 柴可夫斯基  `The Nutcracker, Op. 71`
+* [x] 管风琴 圣一桑  `Organ Symphony (Symphony No. 3 in C Minor, Op. 78)`
+* [x] 图兰加利拉交响曲 梅西安  `Turangalîla-Symphonie`
+* [x] 第四号交响曲 勃拉姆斯  `Symphony No. 4 in E Minor, Op. 98`
+* [x] 培尔·金特 格里特    `Peer Gynt, Op. 23`
+* [x] 达夫妮与克洛伊之日出场景 拉威尔  `Daphnis et Chloé: Suite No. 2 - Lever du jour (Daybreak)`
+* [x] 波莱罗舞曲 拉威尔   `Boléro`
+* [x] 舍赫拉查得 里姆斯基·科萨科夫  `Scheherazade, Op. 35`
+* [x] 第17号钢琴协奏曲 莫扎特  ` Piano Concerto No. 17 in G Major, K. 453`
+* [x] 四季 维瓦尔第  `The Four Seasons (Le quattro stagioni), Op. 8`
+* [x] 第三号小提琴协奏曲 莫扎特  `Violin Concerto No. 3 in G Major, K. 216`
+* [x] 马祖卡舞曲 肖邦  `Mazurkas, Op. 6, 7, 17, 24, 30, 33, 41, 50, 56, 59, 63, 67, 68`
+* [x] 小奏鸣曲 拉威尔  `Sonatine in F-sharp Major`
+* [x] 钢琴协奏曲 拉威尔  `Piano Concerto in G Major`
+* [x] 第21号钢琴奏鸣曲 贝多芬  `Piano Sonata No. 21 in C Major, Op. 53 "Waldstein"`
+* [x] G大调小夜曲 莫扎特  `Serenade in G Major, K. 525 "Eine kleine Nachtmusik"`
+* [x] 第四号交响曲 柴可夫斯基 `Symphony No. 4 in F Minor, Op. 36` 
+* [x] 前奏曲 德彪西  `Préludes, Book 1 and Book 2`
+* [x] 意象集 德彪西  `mages, Book 1 and Book 2`
+* [x] 明日 施特劳斯  `Morgen! (Tomorrow!), Op. 27, No. 4`
+* [x] 钢琴协奏曲 舒曼  `Piano Concerto in A Minor, Op. 54`
+* [x] 勃兰登堡协奏曲第五号 巴赫  `Brandenburg Concerto No. 5 in D Major, BWV 1050`
+* [x] 第22号钢琴协奏曲 莫扎特   `Piano Concerto No. 22 in E-flat Major, K. 482`
+* [x] 第一号匈牙利舞曲 勃拉姆斯  `Hungarian Dance No. 1 in G Minor`
+* [x] 第五交响曲 贝多芬  `Symphony No. 5 in C Minor, Op. 67`
+* [x] 安达卢西亚舞曲 格拉纳多斯  `Andaluza (Playera) from 12 Danzas españolas, Op. 37`
+* [x] 为何  舒曼`Warum? (Why?), Op. 12, No. 3`
+* [x] 塞尔维亚的理发师序曲 罗西尼  `Overture to The Barber of Seville (Il barbiere di Siviglia)`
+* [x] 阿帕拉契亚的春天 艾伦·科普兰  `Appalachian Spring`
+* [x] 降E大调第五交响曲  西贝柳斯  `Symphony No. 5 in E-flat Major, Op. 82`
+* [x] 降E小调前奏曲与赋格 巴赫  `Prelude and Fugue in E-flat Minor, BWV 853 (from The Well-Tempered Clavier, Book 1)`
+* [x] 霍尔朔夫斯基  `Horszowski`
+* [x] 第二号B小调管弦乐组曲 巴赫  `Orchestral Suite No. 2 in B Minor, BWV 1067`
+* [x] 西西里舞曲 弗雷  `Sicilienne, Op. 78`
+* [x] 钢琴三重奏 拉威尔  `Piano Trio in A Minor`
+* [x] 唐豪瑟序曲 瓦格纳  `Overture to Tannhäuser`
+* [x] 镜中镜 阿沃·帕特  `Spiegel im Spiegel`
+* [x] 莱茵 舒曼  `Rhenish Symphony (Symphony No. 3 in E-flat Major, Op. 97)`
+* [x] 被诅咒的猎人  法朗克  `Le Chasseur maudit (The Accursed Hunter)`
+* [x] 魔法森林 丹第  `La Forêt enchantée (The Enchanted Forest)`
+* [x] 法国山歌交响曲 丹第  `Symphonie sur un chant montagnard français (Symphony on a French Mountain Air), Op. 25`
+* [x] 音诗 肖松  `Poème for Violin and Orchestra, Op. 25`
+* [x] 小提琴协奏曲 康果尔德  `Violin Concerto in D Major, Op. 35`
+* [x] 探戈的历史 皮亚佐拉  `Histoire du Tango`
+* [x] 第七号交响曲 布鲁克纳  `Symphony No. 7 in E Major, WAB 107`
+* [x] 神圣的摇篮曲 勃拉姆斯  `Wiegenlied (Lullaby), Op. 49, No. 4`
 
 
 
