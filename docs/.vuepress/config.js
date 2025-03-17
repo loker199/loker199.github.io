@@ -3,6 +3,7 @@ import { defaultTheme } from '@vuepress/theme-default'
 import { defineUserConfig } from 'vuepress'
 import { viteBundler } from '@vuepress/bundler-vite'
 import { markdownMathPlugin } from '@vuepress/plugin-markdown-math'
+import { markdownExtPlugin } from '@vuepress/plugin-markdown-ext'
 
 export default defineUserConfig({
   lang: 'en-US',
@@ -36,6 +37,12 @@ export default defineUserConfig({
 
   plugins: [
     markdownMathPlugin({}),
+    markdownExtPlugin({
+      tasklist :{
+        disabled: false,
+        label: true,
+      },
+    }),
     blogPlugin({
       // Only files under posts are articles
       filter: ({ filePathRelative }) =>
