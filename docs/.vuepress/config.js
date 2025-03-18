@@ -6,12 +6,28 @@ import { markdownMathPlugin } from '@vuepress/plugin-markdown-math'
 import { markdownExtPlugin } from '@vuepress/plugin-markdown-ext'
 
 export default defineUserConfig({
-  lang: 'en-US',
-
-  title: 'Loker199',
-  description: 'a Firmware Programmer',
+  locales:{
+    '/': {
+      lang: 'zh-CN',
+      title: 'Loker199',
+      description: 'a Firmware Programmer',
+    },
+    // '/en/': {
+    //   lang: 'en-US',
+    //   title: 'Loker199',
+    //   description: 'a Firmware Programmer',
+    // },
+  },
 
   theme: defaultTheme({
+    // locales: {
+    //   '/': {
+    //     selectLanguageName: '简体中文',
+    //   },
+    //   '/en/': {
+    //     selectLanguageName: 'English',
+    //   },
+    // },
     logo: '/images/logo.png',
 
     navbar: [
@@ -45,8 +61,12 @@ export default defineUserConfig({
     }),
     blogPlugin({
       // Only files under posts are articles
-      filter: ({ filePathRelative }) =>
-        filePathRelative ? filePathRelative.startsWith('posts/') : false,
+      filter: ({ filePathRelative }) => {
+        if(filePathRelative){
+          return filePathRelative.startsWith('posts/') || filePathRelative.startsWith('en/posts/')
+        }
+        return false
+      },
 
       // Getting article info
       getInfo: ({ frontmatter, title, data }) => ({

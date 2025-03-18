@@ -1,5 +1,7 @@
 <script setup>
-defineProps({
+import { computed } from 'vue';
+
+const props = defineProps({
   /** Article items */
   items: {
     type: Array,
@@ -8,6 +10,13 @@ defineProps({
   /** Whether is timeline or not */
   isTimeline: Boolean,
 })
+
+const filteredItems = computed(() => {
+  return props.items.filter(item => {
+    return item.path.startsWith('/posts/');
+  });
+});
+
 </script>
 
 <template>
@@ -15,7 +24,7 @@ defineProps({
     <div v-if="!items.length">Nothing in here.</div>
 
     <article
-      v-for="{ info, path } in items"
+      v-for="{ info, path } in filteredItems"
       :key="path"
       class="article"
       @click="$router.push(path)"
