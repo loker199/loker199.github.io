@@ -1,7 +1,7 @@
 ---
 date: 2025-02-24
 category:
- - 见闻
+ - CS
 tag:
  - 信息素养
 archive: true
