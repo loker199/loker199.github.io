@@ -123,7 +123,7 @@ export default defineUserConfig({
         {
           key: 'article',
           // Remove archive articles
-          filter: (page) => !page.frontmatter.archive,
+          filter: (page) => page.frontmatter.archive,
           layout: 'Article',
           frontmatter: () => ({
             title: 'Articles',
