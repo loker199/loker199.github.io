@@ -4,7 +4,7 @@ category:
  - CS
 tag:
  - 信息素养
-archive: false
+archive: true
 excerpt: <p> 纯粹的信息素养的技术分析, 缓慢更新技术细节</p>
 ---
 # 高等教育信息素养能力标准

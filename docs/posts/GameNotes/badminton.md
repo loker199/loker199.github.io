@@ -4,7 +4,7 @@ category:
  - game
 tag:
  - 羽毛球
-archive: false
+archive: true
 excerpt: <p> 记录在羽毛球中的学习和实践，缓慢更新动作细节</p>
 ---
 
