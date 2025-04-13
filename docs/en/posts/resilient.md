@@ -61,10 +61,6 @@ excerpt: <p> </p>
   * purposefully cultivate positive emotions
   * connecting with others in very meaningful ways
 
-> 韧性包括两个概念：压力管理和自洽。自洽即把好的要素放进生活习惯里
-从一个好的决策起点，会带来其他积极的决策
-举例来说，我从前很不喜欢打扫屋子，因为没有理由。后来，我买了ns，健身环大冒险，很好玩。因为运动，需要摩擦力，地滑就买了瑜伽垫。瑜伽垫收起来，就会带上地上的灰尘，所以，打扫屋子就变成每次游玩的必要。随后因为占用了时间，又变成了一个休息的时间。现在打扫屋子变成了生活的一部分，我仍然不是喜欢打扫，而且我需要打扫，并不妨碍。
-
 # Values
 >identifying doing what matters most in life
 ## the define of values
@@ -111,9 +107,6 @@ excerpt: <p> </p>
 * The most important part is the commitment part
 * That is commit to doing what matters most.
 
->1. 讲价值观和任务优先级的问题，从抽象的概念，变成具体的行为。
-但是优先级的问题并没有讲太多，其实是分成紧急的任务和重要的任务，后面还会讲无意识的任务。总之，优先级这个问题很难啦。记住紧急的事情，拖一拖就可能成为不用做的事情
->2. 观察自己，从具体的四类上来观察自己行为，是不是在让自己感觉到变好，不做事情和做什么同样重要
 
 # Awareness
 
@@ -136,9 +129,6 @@ excerpt: <p> </p>
   * the mindful stop
   * mindful daily routine
   * mindful breathing
-
->多线程操作，依靠情绪反应，陷入回忆和空想，都是无意识行为，无形中会创造压力(12点了，开始网抑云音乐)。
-首先是要mute everything，开始认真的观察，以及选择
 
 
 # Pay attention to the positive
@@ -204,7 +194,6 @@ excerpt: <p> </p>
     * Anger: protect our self or defend our self
   * positive: broadening our attention and broadening our behavios 
     * Pride: greater confidence, more likely to commit to taking on additional things
->这里聊了情绪的定义，包括注意力，信息获取以及驱动行为，都是情绪的功能
 
 ## intense emotion
 > emotions ranging  from normal to impairing
@@ -246,9 +235,6 @@ excerpt: <p> </p>
     * what could you heart?
     * focus in on beatiful things
 
-> 情绪是很棒的，不管是愤怒，开心，都是非常健康的。
-> 但是过于强烈的就不很合适了，会给我们产生很大的压力。所以，缓解过于强烈的情绪是主题。
-
 ## Positve emotions
 * positive emotions have four effects
   1. the broaden impact`broaden people's attention and thinking`
@@ -261,8 +247,6 @@ excerpt: <p> </p>
   * do for others
   * engage in activities
   * connecting with others in certain types of ways
-
->情绪，要的是丰富。丰富的情绪，丰富的头脑。增加社会活动，增加感知，增加想象力都是非常不错的方法。你喜欢听音乐，就总有一款适合你，非常推荐摇滚乐，愤怒即力量。
 
 # therapeutic lifestyle choices(TLCs)
 >we are in control over the choices we make
@@ -311,7 +295,6 @@ excerpt: <p> </p>
   * relaxation can be achieved in numerous ways`getting a massage, taking a warm bath, meditating`
 * you must schedule time to do it
 
->要锻炼，要吃的好，要睡的好，成为三好学生。发呆真的是很棒的活动。
 
 
 # Relationships
@@ -353,5 +336,3 @@ excerpt: <p> </p>
 * we often identify with role models who aren't too inspiring
 * real life heroes
   * the person live in a way that is inspiring, and that you can model your life after.
-
->不会触发竞争反应，并且愿意主动的付出的关系，是一段非常好的关系
