@@ -41,7 +41,9 @@
 * [x] push 的时候遇到了拒绝访问的问题，需要把port 换到别处
 * [x] 发现原来默认的不支持任务列表，需要增加GFM支持
   * [插件](https://ecosystem.vuejs.press/zh/plugins/markdown/markdown-ext.html)
-
+* 如果想做很棒，够完整才开始，会开始拖延，变成不做
+  * 即使随机摘录词，也没关系
+  * 错误，记下来了，改正。不要失去犯错的机会
 
 
 # 语法分析
