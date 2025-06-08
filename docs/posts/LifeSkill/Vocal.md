@@ -4,7 +4,7 @@ category:
  - LifeSkill
 tag:
  - 人声
-archive: flase
+archive: false
 excerpt: <p> 学习游泳后，似乎获得正确气息运用，便觉讲话畅快，必有缘由，进行学习</p>
 ---
 
