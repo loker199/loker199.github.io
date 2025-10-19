@@ -4,7 +4,10 @@ import { defineUserConfig } from 'vuepress'
 import { viteBundler } from '@vuepress/bundler-vite'
 import { markdownMathPlugin } from '@vuepress/plugin-markdown-math'
 import { markdownExtPlugin } from '@vuepress/plugin-markdown-ext'
+import { getDirname, path } from 'vuepress/utils'
+import { registerComponentsPlugin } from '@vuepress/plugin-register-components'
 
+const __dirname = import.meta.dirname || getDirname(import.meta.url)
 export default defineUserConfig({
   locales:{
     '/': {
@@ -52,6 +55,11 @@ export default defineUserConfig({
   }),
 
   plugins: [
+    registerComponentsPlugin({
+      components: {
+        HelloVue: path.resolve(__dirname, './components/HelloVue.vue'),
+      },
+    }),
     markdownMathPlugin({}),
     markdownExtPlugin({
       tasklist :{
