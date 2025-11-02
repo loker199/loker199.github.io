@@ -31,7 +31,7 @@ excerpt: <p> 作为一个长期事件来做，阅读一些短篇的英文，能�
 
 * 发音
     * 音标
-    * 语流音转
+    * 语流音转/[连读](https://iastate.pressbooks.pub/teachingpronunciation/)
 
 
 * 工具
